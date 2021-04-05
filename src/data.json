@@ -38,7 +38,7 @@
         "title": "Dress 5",
         "description": "About dress 5",
         "price": 19,
-        "availableSizes": ["M", "L", "XLL"]
+        "availableSizes": ["M", "L", "XL"]
       },
       {
         "_id": "dress6",
