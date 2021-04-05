@@ -196,3 +196,29 @@ footer {
   justify-content: space-between;
   align-items: center;
 }
+
+/* Checkout form */
+
+form {
+  width: 100%
+}
+
+.form-container {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+}
+
+.form-container li {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 1rem 0;
+}
+
+input {
+  padding: 1rem;
+  border: .1rem #c0c0c0 solid
+}
