@@ -200,7 +200,7 @@ footer {
 /* Checkout form */
 
 form {
-  width: 100%
+  width: 100%;
 }
 
 .form-container {
@@ -220,5 +220,27 @@ form {
 
 input {
   padding: 1rem;
-  border: .1rem #c0c0c0 solid
+  border: 0.1rem #c0c0c0 solid;
+}
+
+/* Modal */
+.product-details img {
+  max-width: 40rem;
+}
+
+.close-modal {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+.product-details {
+  display: flex;
+  flex-direction: row;
+  padding: 2rem;
+}
+
+.product-details-description {
+  padding: 2rem;
+  flex: 1;
 }
