@@ -13,7 +13,7 @@
         "image": "/images/dress2.jpg",
         "title": "Dress 2",
         "description": "About dress 2",
-        "price": 19,
+        "price": 23,
         "availableSizes": ["M", "L", "XL", "XXL"]
       },
       {
@@ -21,7 +21,7 @@
         "image": "/images/dress3.jpg",
         "title": "Dress 3",
         "description": "About dress 3",
-        "price": 19,
+        "price": 7,
         "availableSizes": ["S", "M", "XL", "XXL"]
       },
       {
@@ -37,7 +37,7 @@
         "image": "/images/dress5.jpg",
         "title": "Dress 5",
         "description": "About dress 5",
-        "price": 19,
+        "price": 10,
         "availableSizes": ["M", "L", "XL"]
       },
       {
@@ -45,7 +45,7 @@
         "image": "/images/dress6.jpg",
         "title": "Dress 6",
         "description": "About dress 6",
-        "price": 19,
+        "price": 8,
         "availableSizes": ["X", "L", "XL", "XXL"]
       }
   ]
